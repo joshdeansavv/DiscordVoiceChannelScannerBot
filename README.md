@@ -47,8 +47,8 @@ A 24/7 Discord bot that streams JunctionNow radio to a specific voice channel.
 ## Configuration
 
 The bot is already configured with your specific IDs:
-- **Guild ID:** 1364579849276227584
-- **Voice Channel ID:** 1394518568112226396
+- **Guild ID:** {PUT YOUR GUILD ID HERE}
+- **Voice Channel ID:** {PUT YOUR VOICE CHANNEL ID HERE}
 - **Stream URL:** https://audio.junctionnow.com:8000/radio.mp3
 
 ## Usage
