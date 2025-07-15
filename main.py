@@ -68,8 +68,8 @@ load_env_file()
 
 # Configuration
 TOKEN = os.getenv("DISCORD_TOKEN")
-GUILD_ID = 1364579849276227584
-VOICE_CHANNEL_ID = 1394518568112226396
+GUILD_ID = {GUILD_ID_GOES_HERE}
+VOICE_CHANNEL_ID = {VOICE_CHANNEL_ID_GOES_HERE}
 STREAM_URL = "https://audio.junctionnow.com:8000/radio.mp3"
 
 # Validate token
